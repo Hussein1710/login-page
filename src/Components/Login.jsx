@@ -47,7 +47,7 @@ const Login = () => {
         {/* <div className="absolute inset-10 bg-pink-300 opacity-70 blur-none"></div> */}
         <div className="flex flex-col gap-3 mt-12 md:mt-2 mx-6">
             <img src={Logo} alt="Logo" className="w-[20%] md:w-[10%] bg-transparent" />
-            <div className="flex flex-col ">
+            <div className="flex flex-col text-pink-700 ">
                 <h1 className="text-3xl font-bold">You're welcome</h1>
                 <p className="text-md font-bold">Let's get you set for login</p>
             </div>
